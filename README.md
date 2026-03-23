@@ -1,3 +1,11 @@
+# RoadTarsier
+
+> Road Fleet: RoadTarsier — your tools, your device. BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/reworkd/Tarsier/main/.github/assets/tarsier.png" height="300" alt="Tarsier Monkey" />
 </p>
